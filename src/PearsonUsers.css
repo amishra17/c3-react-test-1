@@ -1,0 +1,12 @@
+.container {
+	display: flex;
+	flex-direction: row;
+    flex-flow: wrap;
+    justify-content: flex-start;
+	background-color: #D8D8D8;
+	padding:50px;
+}
+
+h1 {
+	margin-left: 20px
+}
